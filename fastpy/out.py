@@ -1,0 +1,1 @@
+SimplificationResult = str
